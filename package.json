@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "tsxfolder.helloWorld",
-        "title": "Hello World"
+        "command": "tsxfolder.addAComponent",
+        "title": "add component"
       }
     ]
   },
